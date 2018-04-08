@@ -29,8 +29,8 @@ class Bio extends React.Component {
 					}}
 				/>
 				<p style={{ marginBottom: 0 }}>
-					Écrit par <strong>Christopher Bellanger</strong> <br />Passioné par les lectures et les nouvelles
-					technologie.
+					Écrit par <strong>Christopher Bellanger</strong> <br />Passioné par la lecture et les nouvelles
+					technologies.
 					<br />
 					<a href="https://twitter.com/_cricrio_">Vous pouvez me suivre sur Twitter</a>
 				</p>
