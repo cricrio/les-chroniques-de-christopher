@@ -1,7 +1,6 @@
 ---
 date: "2018-04-08"
 title: C'est parti pour une nouvelle aventure
-locale: "fr"
 ---
 Bonjour à tous et bienvenue sur mon blog littéraire !
 
